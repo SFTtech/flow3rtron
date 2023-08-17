@@ -1,0 +1,14 @@
+[app]
+name = "Tron"
+menu = "Apps"
+
+[entry]
+class = "Flow3rTron"
+
+[metadata]
+description = "The Tron game for your flow3r"
+author = "jj & lf"
+license = "LGPL-3.0-only"
+url = "https://git.flow3r.garden/jj/flow3rtron"
+
+version = 0

@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+~*
+.*.swp
+\#*
+.#*
+.mypy_cache
+
+MANIFEST
+dist/
+
+/*.conf
+/test
+/build
